@@ -8,3 +8,5 @@ ipykernel
 jupyter_core
 notebook
 nltk
+flask
+requests
